@@ -20,5 +20,5 @@ var port = process.env.PORT || 3000;
 http.createServer(function (req, res) {
   'use strict';
   res.writeHead(200, {'Content-Type': 'text/html'});
-  res.end('<h1>Hello beer.js!!</h1>');
+  res.end('<h1>Hello Nuzz!</h1>')
 }).listen(port);
