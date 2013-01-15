@@ -1,1 +1,1 @@
-mozilla beer.js demo app fork by lindsey
+uihimozilla beer.js demo app fork by lindsey
