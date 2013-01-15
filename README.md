@@ -1,1 +1,1 @@
-beer.js demo app
+mozilla beer.js demo app
